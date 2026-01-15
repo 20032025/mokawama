@@ -71,6 +71,10 @@
             font-size: 30px;
         }
 
+        ul {
+          list-style: none;
+        
+        }
 
         .example-1 {
             text-decoration: none;
